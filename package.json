@@ -1,24 +1,28 @@
 {
-  "name": "ledger-cosmos-js",
+  "name": "ledger-bitsong-js",
   "version": "0.0.0",
-  "description": "Node API for Cosmos App (Ledger Nano S/X)",
+  "description": "Node API for BitSong App (Ledger Nano S/X)",
   "main": "./dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zondax/ledger-cosmos-js.git"
+    "url": "git+https://github.com/bitsongofficial/ledger-bitsong-js.git"
   },
   "keywords": [
     "Ledger",
     "Javascript",
     "Tendermint",
-    "Cosmos"
+    "Cosmos",
+    "BitSong"
   ],
-  "author": "ZondaX GmbH",
+  "authors": [
+    "ZondaX GmbH",
+    "Angelo Recca"
+  ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/zondax/ledger-cosmos-js/issues"
+    "url": "https://github.com/bitsongofficial/ledger-bitsong-js/issues"
   },
-  "homepage": "https://github.com/zondax/ledger-cosmos-js",
+  "homepage": "https://github.com/bitsongofficial/ledger-bitsong-js",
   "dependencies": {
     "@babel/runtime": "^7.11.2",
     "@ledgerhq/hw-transport": "^5.25.0",
