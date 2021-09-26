@@ -1,6 +1,6 @@
 {
   "name": "ledger-bitsong-js",
-  "version": "0.0.0",
+  "version": "0.1.0-dev-1",
   "description": "Node API for BitSong App (Ledger Nano S/X)",
   "main": "./dist/index.js",
   "repository": {
